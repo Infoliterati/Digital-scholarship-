@@ -1,6 +1,6 @@
 # Notes about the research project 
 
-From the makerspace / DS perspective ...
+## From the makerspace / DS perspective ...
 
 The collection is a teaching tool that can be used for 
 learning about digital scholarship. 
@@ -23,12 +23,7 @@ Also play with related datasets such as her bibliography compiled in Zotero.
 
 4) interacting / collaborating? with scholars who are using the material
 
-So it is starting from the ground up, and then exploring/ 
-learning through making things with the 
-created data - mainly digital making, but also physical making.  
-We can also evaluate the tools as we experiment with them.  
-It is about exploring ways of providing a description of the library, 
-its history, telling the story of the collection, and along with that, Cherry's story.  
+So it is starting from the ground up, and then exploring/ learning through making things with the created data - mainly digital making, but also physical making. We can also evaluate the tools as we experiment with them. It is about exploring ways of providing a description of the library, its history, telling the story of the collection, and along with that, Cherry's story.  
 
 We will be using a different teaching method, one that is learning through doing, working on
 the project. Students and others can come in at any point and do a project relating
