@@ -1,3 +1,3 @@
-# Gertzel-Collection-
+# Digital-scholarship-
 
-Files pertaining to the Gertzel collection and its story 
+Files pertaining to digital scholarship, including the Gertzel collection and its story 
