@@ -2,6 +2,9 @@
 
 ## Introduction to the collection 
 
+- what is involved in 
+
+
 ## Collaboration / Community building - archive as community 
 - AFSAAP and the academic community (African Scholarship)
 - Curtin FAculty MCCA / Info Studies (LARIS) 
